@@ -1,0 +1,5 @@
+//Personal - Known As,Personal - Surname,Personal - Work Email
+Doe,John,jon.doe@example.com
+// Comments are skipped and a blank line stops the script
+
+Doe,Jane,jane.doe@example.com
